@@ -1,0 +1,10 @@
+project:
+  name: skytempledocs
+  src: .
+  app:
+    $ref: /app/sphinx/latest
+    services:
+      sphinx:
+        environment:
+          SPHINX_SOURCE: source
+          SPHINX_BUILD: build
