@@ -21,6 +21,10 @@ SkyTemple Documentation
 
 WIP Documentation for SkyTemple. Published on ReadTheDocs: https://skytemple.readthedocs.io/
 
+Documentation is licensed under `Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)`_.
+
 Want to help? This project is coordinated on our Discord server.
 
 |kofi|
+
+.. _Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
